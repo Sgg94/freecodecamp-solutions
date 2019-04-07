@@ -1,1 +1,1 @@
-var myStr="FirstLine\n\\SecondLine\\\rThirdLine"; // Change this line
+var myStr="FirstLine\n\t\SecondLine\nThirdLine"; // Change this line
